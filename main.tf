@@ -105,3 +105,5 @@ module "placement_group" {
   type   = var.placement_group.type
   labels = var.placement_group.labels
 }
+
+s
